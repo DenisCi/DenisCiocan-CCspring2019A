@@ -1,4 +1,4 @@
-//Assignment 6: Own particle system. Balloon guy crying.
+//Assignment 6: Own particle system. Balloon guy crying out of one eye.
 
 float radius = 200;  //radius of head
 float step = 0;  //for inflation
